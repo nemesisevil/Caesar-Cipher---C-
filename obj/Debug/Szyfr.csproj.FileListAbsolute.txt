@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\bin\Debug\Szyfr.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\bin\Debug\Szyfr.exe
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\bin\Debug\Szyfr.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\Szyfr.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\Szyfr_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\Szyfr_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\Szyfr.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\Szyfr.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\Szyfr.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\Szyfr.exe
+c:\users\admin\documents\visual studio 2015\Projects\Szyfr\Szyfr\obj\Debug\Szyfr.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="Szyfr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Szyfr"
+        mc:Ignorable="d"
+        Title="Szyfrownik" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="28*"/>
+            <ColumnDefinition Width="489*"/>
+        </Grid.ColumnDefinitions>
+        <ScrollViewer x:Name="Wyswietlacz" HorizontalAlignment="Left" Height="252" Margin="2,28,0,0" VerticalAlignment="Top" Width="247" Grid.Column="1"/>
+        <TextBox x:Name="Textbox" HorizontalAlignment="Left" Height="60" Margin="260,76,0,0" TextWrapping="Wrap" Text="Wpisz tekst" VerticalAlignment="Top" Width="166" Grid.Column="1"/>
+        <Button x:Name="przycKonwert" Content="Konwertuj" HorizontalAlignment="Left" Height="26" Margin="260,223,0,0" VerticalAlignment="Top" Width="166" Click="przycKonwert_Click" Grid.Column="1"/>
+        <TextBox x:Name="liczbaBox" Grid.Column="1" HorizontalAlignment="Left" Height="17" Margin="393,161,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" Width="22"/>
+        <TextBlock x:Name="textBlock" Grid.Column="1" HorizontalAlignment="Left" Margin="268,162,0,0" TextWrapping="Wrap" Text="Liczba przesunięć" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock1" Grid.Column="1" HorizontalAlignment="Left" Margin="260,47,0,0" TextWrapping="Wrap" Text="Wpisz tekst do zaszyfrowania:" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
